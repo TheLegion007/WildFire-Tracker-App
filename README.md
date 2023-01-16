@@ -1,4 +1,5 @@
 [![Capture.png](https://i.postimg.cc/1zjgk3Tw/Capture.png)](https://postimg.cc/Ff0scNhH)
+A React Web Application created to track realtime wildfires around the globe using NASA's Open API and plot them on a Google map.
 
 # Getting Started with Create React App
 
